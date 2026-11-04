@@ -513,10 +513,10 @@ Tornar o controle financeiro pessoal mais simples, acessível e eficiente atrav�
 
 
 ### O que funcionou bem?  
-
+O refinamento da PRD previamente feito no Copilot ajudou muito, pois os créditos do Lovable acabaram em 3 interações
 
 ### O que não funcionou como o esperado?  
-
+Esperava poder usar mais o Lovable, mas consegui ter uma noção de como é Vibe Coding 
 
 ### O que aprendeu sobre conversar com IAs?
-
+Vi que é como conversar com uma pessoa e os detalhes são muito importantes nessa etapa
